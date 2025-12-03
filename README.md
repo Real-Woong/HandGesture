@@ -1,4 +1,4 @@
-```markdown
+markdown
 Hand Gesture Recognition (Python, OpenCV, CVZone)
 
 This project is a simple real-time hand gesture recognition system built with  
@@ -29,7 +29,7 @@ Depending on the detected gesture, the program displays one of three images:
 ---
 
  📁 Project Structure
-```
+
 
 HandGesture/
 │
@@ -42,7 +42,6 @@ HandGesture/
 ├── .gitignore
 └── requirements.txt
 
-````
 
 ---
 
@@ -70,9 +69,9 @@ python HandGesture.py
 
  ✋ Supported Gestures
 
-| Victory / V ✌️   - Index + middle finger up - Shows `v_image.jpeg`       |
-| Middle finger 🖕 - Middle finger only       - Shows `middle_image.jpg`   |
-| High-five ✋     - All fingers extended     - Shows `highfive_image.jpg` |
+Victory / V ✌️   - Index + middle finger up - Shows `v_image.jpeg` 
+Middle finger 🖕 - Middle finger only       - Shows `middle_image.jpg` 
+High-five ✋     - All fingers extended     - Shows `highfive_image.jpg`
 
 ---
 
