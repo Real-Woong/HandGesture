@@ -28,19 +28,24 @@ Depending on the detected gesture, the program displays one of three images:
 
 ---
 
- 📁 Project Structure
+```markdown
+## 📁 Project Structure
 
-`
+```
 HandGesture/
 │
-├── HandGesture.py           Main script (gesture detection + display)
+├── HandGesture.py           # Main script (gesture detection + display)
 ├── Bears/
-│   ├── v_image.jpeg         V sign image
-│   ├── middle_image.jpg     Middle finger image
-│   ├── highfive_image.jpg   High-five image
+│   ├── v_image.jpeg         # V sign image
+│   ├── middle_image.jpg     # Middle finger image
+│   ├── highfive_image.jpg   # High-five image
 │
 ├── .gitignore
-`
+└── requirements.txt
+```
+```
+
+
 
 
 ---
