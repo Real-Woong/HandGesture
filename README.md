@@ -28,8 +28,7 @@ Depending on the detected gesture, the program displays one of three images:
 
 ---
 
-```markdown
-## 📁 Project Structure
+ 📁 Project Structure
 
 ```
 HandGesture/
@@ -43,10 +42,6 @@ HandGesture/
 ├── .gitignore
 └── requirements.txt
 ```
-```
-
-
-
 
 ---
 
