@@ -30,7 +30,7 @@ Depending on the detected gesture, the program displays one of three images:
 
  📁 Project Structure
 
-
+`
 HandGesture/
 │
 ├── HandGesture.py           Main script (gesture detection + display)
@@ -40,7 +40,7 @@ HandGesture/
 │   ├── highfive_image.jpg   High-five image
 │
 ├── .gitignore
-└── requirements.txt
+`
 
 
 ---
@@ -66,14 +66,13 @@ python HandGesture.py
 ```
 
 ---
+✋ Supported Gestures
 
- ✋ Supported Gestures
-
-Victory / V ✌️   = Index + middle finger up 
-
-Middle finger 🖕 = Middle finger only
-
-High-five ✋     = All fingers extended
+| Gesture          | Description              | Output                     |
+| ---------------- | ------------------------ | -------------------------- |
+| Victory / V ✌️   | Index + middle finger up | Shows `v_image.jpeg`       |
+| Middle finger 🖕 | Middle finger only       | Shows `middle_image.jpg`   |
+| High-five ✋      | All fingers extended     | Shows `highfive_image.jpg` |
 
 ---
 
